@@ -32,7 +32,8 @@ Diese Erweiterung wurde entwickelt, um die Nutzung von Kleinanzeigen zu verbesse
 
 Hier ist ein kurzes Beispiel der Funktionalität:
 
-![Funktionsweise](KleinanzeigenMapsLinker.gif)
+https://github.com/user-attachments/assets/1ce422bd-1a89-42b4-894f-42d90f80bbdd
+
 
 ---
 
