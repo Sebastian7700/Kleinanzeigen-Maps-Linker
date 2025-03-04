@@ -1,6 +1,6 @@
 # Kleinanzeigen Maps Linker
 
-Eine leichte Chrome-Erweiterung, die Adressen auf Kleinanzeigen anklickbar macht und direkt zu Google Maps führt.
+Eine kleine Chrome-Extension, die Adressen auf Kleinanzeigen anklickbar macht und direkt zu Google Maps führt.
 
 ---
 
